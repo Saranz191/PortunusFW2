@@ -1,0 +1,12 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:28:9:mrd2_new	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:55:5:mrd2_listen	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:124:5:mrd2_recv	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:144:5:mrd2_close	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:161:5:mrd2_init_frame	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:180:15:mrd2_new_frame	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:199:15:mrd2_duplicate_frame	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:210:6:mrd2_delete_frame	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:218:5:mrd2_set_frame_ifname	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:231:5:mrd2_copy_frame_ifname	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:237:6:mrd2_push_frame	11
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2.c:325:15:mrd2_frame_type_size	8

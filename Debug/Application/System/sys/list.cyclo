@@ -1,0 +1,8 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:19:5:list_root_init	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:29:14:list_root_get_first_node	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:34:5:list_node_init	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:44:5:list_node_register	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:74:5:list_node_unregister	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:111:7:list_node_get_data	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:116:7:list_node_search	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c:148:12:compare_as_int	2

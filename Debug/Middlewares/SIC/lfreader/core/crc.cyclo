@@ -1,0 +1,6 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/crc.c:15:9:crc8_base	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/crc.c:48:9:crc8CalculateMSB	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/crc.c:89:10:crc16_base	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/crc.c:117:10:crc16_tms37157	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/crc.c:125:10:crc16_kermit	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/crc.c:130:10:crc16_xmodem	1

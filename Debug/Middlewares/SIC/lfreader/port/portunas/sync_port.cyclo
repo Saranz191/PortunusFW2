@@ -1,0 +1,6 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/port/portunas/sync_port.c:8:12:rd_sync_new	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/port/portunas/sync_port.c:13:5:rd_sync_delete	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/port/portunas/sync_port.c:18:5:rd_sync_static_init	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/port/portunas/sync_port.c:27:5:rd_sync_clear	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/port/portunas/sync_port.c:47:5:rd_sync_wait	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/port/portunas/sync_port.c:73:5:rd_sync_release	2

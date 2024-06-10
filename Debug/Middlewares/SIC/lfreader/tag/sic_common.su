@@ -1,0 +1,3 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.c:9:12:sic_copy_response	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.c:45:5:sic_read_response_filter	48	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.c:75:5:sic_read_response	48	static

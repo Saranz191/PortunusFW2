@@ -1,0 +1,10 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:14:5:gpio_system_init	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:19:5:gpio_register	9
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:72:9:gpio_open	7
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:116:5:gpio_close	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:144:5:gpio_read	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:166:5:gpio_write	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:187:5:gpio_config	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:209:5:gpio_config_property	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:217:5:gpio_config_enable_interrupt	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:232:5:gpio_config_disable_interrupt	2

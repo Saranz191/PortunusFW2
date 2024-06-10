@@ -1,0 +1,4 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/sha256.c:28:6:sha256_init	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/sha256.c:44:6:sha256_update	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/sha256.c:79:6:sha256_finish	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/sha256.c:147:13:sha256_process	4

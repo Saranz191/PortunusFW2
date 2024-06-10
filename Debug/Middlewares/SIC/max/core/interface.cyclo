@@ -1,0 +1,9 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:25:5:netInterface_init	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:79:5:netInterface_register	8
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:155:5:netInterface_unregister	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:195:10:netInterface_search	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:222:10:netInterface_getDefault	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:233:13:netInterface_getName	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:259:5:netInterface_config	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:275:5:netInterface_directConfig	12
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:330:5:netInterface_status	2

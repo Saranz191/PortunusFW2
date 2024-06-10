@@ -1,0 +1,7 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:10:5:sys_obj_tbl_init	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:20:5:sys_obj_init	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:65:5:sys_obj_register	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:87:5:sys_obj_unregister	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:108:7:sys_obj_find	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:124:5:sys_obj_check_serial	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/obj.c:141:12:compare_alias_name	16	static

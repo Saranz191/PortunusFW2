@@ -1,0 +1,10 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:259:6:aes_key_expansion	40	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:283:13:sub_bytes	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:291:13:inv_sub_bytes	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:302:13:shift_rows	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:316:13:inv_shift_rows	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:334:13:add_round_key	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:366:13:mix_columns	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:394:13:inv_mix_columns	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:414:6:aes_cipher	48	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/aes.c:454:6:aes_inv_cipher	48	static

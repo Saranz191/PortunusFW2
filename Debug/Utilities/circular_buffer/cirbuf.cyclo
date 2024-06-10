@@ -1,0 +1,8 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:33:5:cirbuf_init	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:56:8:cirbuf_put	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:83:8:cirbuf_get	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:116:8:cirbuf_peek	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:143:8:cirbuf_drop	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:177:5:cirbuf_flush	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:193:8:cirbuf_freespace	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Utilities/circular_buffer/cirbuf.c:209:8:cirbuf_available	2

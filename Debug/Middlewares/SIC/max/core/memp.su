@@ -1,0 +1,10 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:85:12:memBlkInit	24	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:121:14:memBlkAlloc	72	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:216:13:memBlkFree	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:268:12:fixedSizeMempInit	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:300:13:fixedSizeFree	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:345:14:fixedSizeAlloc	64	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:438:5:mempool_init	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:463:7:mempool_alloc	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:487:6:mempool_free	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/memp.c:502:5:mempool_cpy_s	32	static

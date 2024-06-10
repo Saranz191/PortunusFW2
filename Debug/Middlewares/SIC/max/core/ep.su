@@ -1,0 +1,14 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:36:5:ep_init	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:80:9:ep_new	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:108:5:ep_bind	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:189:5:ep_bindInterface	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:221:5:ep_send	56	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:292:5:ep_recv	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:319:5:ep_close	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:346:5:ep_setOpt	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:385:17:allocBufferSeg	56	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:503:16:ep_findListen	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:535:5:ep_input	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:590:6:ep_processSegment	80	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:782:22:ep_segAlloc	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/ep.c:793:12:ep_segFree	24	static

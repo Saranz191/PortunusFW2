@@ -1,0 +1,4 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2_out.c:26:5:mrd2_send	48	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2_out.c:87:6:mrd2_output	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2_out.c:154:17:mrd2_create_pkbuf	64	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/mrd2_out.c:545:17:mrd2_pkbuf_alloc	32	static

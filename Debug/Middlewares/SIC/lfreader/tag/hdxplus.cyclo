@@ -1,0 +1,6 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/hdxplus.c:25:12:tms37190_profile_start	8
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/hdxplus.c:69:12:tms37190_profile_stop	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/hdxplus.c:83:12:tms37190_profile_operate	7
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/hdxplus.c:127:12:tms37190_copy_response	6
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/hdxplus.c:161:5:tms37190_read_response_filter	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/hdxplus.c:189:5:tms37190_read_response	4
