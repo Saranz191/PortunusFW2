@@ -1,5 +1,5 @@
 Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \

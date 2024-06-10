@@ -1,5 +1,5 @@
 Application/MicroReader/core/error.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/error.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/error.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \

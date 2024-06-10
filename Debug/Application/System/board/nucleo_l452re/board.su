@@ -18,8 +18,8 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_system.h:1429:26:LL_FLASH_GetLatency	4	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_pwr.h:343:22:LL_PWR_SetRegulVoltageScaling	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_pwr.h:1607:26:LL_PWR_IsActiveFlag_VOS	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:47:5:board_init	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:92:5:board_hardware_version	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:106:5:board_serial_number_64bits	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:130:6:board_system_clock_config	8	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:189:6:board_error_handler	4	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:47:5:board_init	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:92:5:board_hardware_version	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:106:5:board_serial_number_64bits	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:130:6:board_system_clock_config	8	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/nucleo_l452re/board.c:189:6:board_error_handler	4	static,ignoring_inline_asm

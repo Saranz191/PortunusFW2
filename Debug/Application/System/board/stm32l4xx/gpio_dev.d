@@ -1,5 +1,5 @@
 Application/System/board/stm32l4xx/gpio_dev.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Application/System/include/sys/gpio.h \
  ../../../../Application/System/include/sys/arch.h \
@@ -45,7 +45,7 @@ Application/System/board/stm32l4xx/gpio_dev.o: \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h \
  ../../../../Application/System/include/sys/list.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Application/System/include/sys/gpio.h:
 ../../../../Application/System/include/sys/arch.h:
@@ -91,4 +91,4 @@ Application/System/board/stm32l4xx/gpio_dev.o: \
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:
 ../../../../Application/System/include/sys/list.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.h:

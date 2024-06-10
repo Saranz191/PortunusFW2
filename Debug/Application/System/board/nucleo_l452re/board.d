@@ -1,5 +1,5 @@
 Application/System/board/nucleo_l452re/board.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/board.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/board.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Application/System/include/sys/blkdev.h \
  ../../../../Application/System/include/sys/arch.h \
@@ -46,8 +46,8 @@ Application/System/board/nucleo_l452re/board.o: \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h \
  ../../../../Application/System/include/sys/list.h \
  ../../../../Application/System/include/sys/gpio.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/flash_dev.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/flash_dev.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h \
  .././memory_layout.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Application/System/include/sys/blkdev.h:
@@ -95,6 +95,6 @@ Application/System/board/nucleo_l452re/board.o: \
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:
 ../../../../Application/System/include/sys/list.h:
 ../../../../Application/System/include/sys/gpio.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/flash_dev.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/flash_dev.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h:
 .././memory_layout.h:

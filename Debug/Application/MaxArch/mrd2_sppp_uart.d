@@ -1,5 +1,5 @@
 Application/MaxArch/mrd2_sppp_uart.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.c \
  ../../../../Application/System/include/sys/arch.h \
  ../../../../Application/System/include/sys/opt.h \
  ../../../../Application/System/board/nucleo_l452re/board_opt.h \
@@ -43,7 +43,7 @@ Application/MaxArch/mrd2_sppp_uart.o: \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h \
  ../../../../Utilities/circular_buffer/cirbuf.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.h \
  ../../../../Middlewares/SIC/max/include/max/interface.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
  ../../../../Middlewares/SIC/max/include/max/opt.h \
@@ -100,7 +100,7 @@ Application/MaxArch/mrd2_sppp_uart.o: \
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:
 ../../../../Utilities/circular_buffer/cirbuf.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.h:
 ../../../../Middlewares/SIC/max/include/max/interface.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
 ../../../../Middlewares/SIC/max/include/max/opt.h:

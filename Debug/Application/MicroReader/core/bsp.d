@@ -1,5 +1,5 @@
 Application/MicroReader/core/bsp.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/bsp.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/bsp.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Middlewares/SIC/max/include/max/err.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
@@ -58,12 +58,18 @@ Application/MicroReader/core/bsp.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
  ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/afe.h \
  ../../../../Application/MicroReader/Inc/mrd2/error.h \
  ../../../../Application/MicroReader/Inc/mrd2/reader.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
- ../../../../Middlewares/SIC/lfreader/include/reader/afe.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
- ../../../../Application/MicroReader/Inc/mrd2/bsp.h
+ ../../../../Application/MicroReader/Inc/mrd2/bsp.h \
+ ../../../../Application/MicroReader/Inc/mrd2/setup.h \
+ ../../../../Application/MicroReader/Inc/mrd2/settings.h \
+ ../../../../Application/MicroReader/Inc/ecm/charge_read_cmd.h \
+ ../../../../Application/MicroReader/Inc/mrd2/dev.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Middlewares/SIC/max/include/max/err.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
@@ -122,9 +128,15 @@ Application/MicroReader/core/bsp.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
+../../../../Middlewares/SIC/lfreader/include/reader/afe.h:
 ../../../../Application/MicroReader/Inc/mrd2/error.h:
 ../../../../Application/MicroReader/Inc/mrd2/reader.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/api.h:
-../../../../Middlewares/SIC/lfreader/include/reader/afe.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
 ../../../../Application/MicroReader/Inc/mrd2/bsp.h:
+../../../../Application/MicroReader/Inc/mrd2/setup.h:
+../../../../Application/MicroReader/Inc/mrd2/settings.h:
+../../../../Application/MicroReader/Inc/ecm/charge_read_cmd.h:
+../../../../Application/MicroReader/Inc/mrd2/dev.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h:

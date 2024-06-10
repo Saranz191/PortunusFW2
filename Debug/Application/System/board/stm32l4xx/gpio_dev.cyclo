@@ -30,17 +30,17 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:927:26:LL_GPIO_IsOutputPinSet	2
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:956:22:LL_GPIO_SetOutputPin	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:985:22:LL_GPIO_ResetOutputPin	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:37:12:stm32_gpio_clock_enable	7
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:71:12:stm32_set_syscfg_exti	23
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:175:31:stm32_get_gpio_irq_table	28
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:216:32:stm32_get_gpio_nvic_table	28
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:248:12:stm32_gpio_init	14
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:321:17:stm32_gpio_get_property	13
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:397:12:stm32_gpio_interrupt_enable	14
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:496:12:stm32_gpio_interrupt_disable	8
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:554:12:stm32_gpio_ops_open	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:561:12:stm32_gpio_ops_close	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:568:12:stm32_gpio_ops_read	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:582:12:stm32_gpio_ops_write	2
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:597:12:stm32_gpio_ops_config	10
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:632:6:stm32_gpio_exit_callback	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:37:12:stm32_gpio_clock_enable	7
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:71:12:stm32_set_syscfg_exti	23
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:175:31:stm32_get_gpio_irq_table	28
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:216:32:stm32_get_gpio_nvic_table	28
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:248:12:stm32_gpio_init	14
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:321:17:stm32_gpio_get_property	13
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:397:12:stm32_gpio_interrupt_enable	14
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:496:12:stm32_gpio_interrupt_disable	8
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:554:12:stm32_gpio_ops_open	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:561:12:stm32_gpio_ops_close	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:568:12:stm32_gpio_ops_read	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:582:12:stm32_gpio_ops_write	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:597:12:stm32_gpio_ops_config	10
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/gpio_dev.c:632:6:stm32_gpio_exit_callback	3

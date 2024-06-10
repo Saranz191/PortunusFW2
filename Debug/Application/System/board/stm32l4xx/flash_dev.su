@@ -1,8 +1,8 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:145:12:get_bank_page	32	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:168:12:get_erase_job	48	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:209:12:internal_flash_write_enable	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:219:12:internal_flash_write_disable	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:227:12:internal_flash_erase_blk	72	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:261:5:internal_flash_erase_all	32	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:266:5:internal_flash_write	304	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:311:12:internal_flash_read	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:145:12:get_bank_page	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:168:12:get_erase_job	48	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:209:12:internal_flash_write_enable	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:219:12:internal_flash_write_disable	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:227:12:internal_flash_erase_blk	72	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:261:5:internal_flash_erase_all	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:266:5:internal_flash_write	304	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/board/stm32l4xx/flash_dev.c:311:12:internal_flash_read	24	static

@@ -1,5 +1,5 @@
 Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_utils.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_utils.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_utils.c \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_utils.h \
  ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h \
  ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l452xx.h \

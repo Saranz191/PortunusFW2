@@ -1,5 +1,5 @@
 Application/System/board/nucleo_l452re/stm32l4xx_hal_msp.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/stm32l4xx_hal_msp.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/stm32l4xx_hal_msp.c \
  ../../../../Application/System/include/sys/arch.h \
  ../../../../Application/System/include/sys/opt.h \
  ../../../../Application/System/board/nucleo_l452re/board_opt.h \

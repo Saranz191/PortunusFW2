@@ -1,6 +1,6 @@
 Application/USBDevice/App/usb_device.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usb_device.c \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usb_device.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usb_device.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usb_device.h \
  ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h \
  ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l452xx.h \
  ../../../../Drivers/CMSIS/Include/core_cm4.h \
@@ -50,10 +50,10 @@ Application/USBDevice/App/usb_device.o: \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usbd_desc.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usbd_desc.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h \
  ../../../../Middlewares/SIC/max/include/max/interface.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
  ../../../../Middlewares/SIC/max/include/max/opt.h \
@@ -63,7 +63,7 @@ Application/USBDevice/App/usb_device.o: \
  ../../../../Application/MaxArch/arch/compiler.h \
  ../../../../Middlewares/SIC/max/include/max/sys.h \
  ../../../../Middlewares/SIC/max/include/max/pkBuf.h
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usb_device.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usb_device.h:
 ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h:
 ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l452xx.h:
 ../../../../Drivers/CMSIS/Include/core_cm4.h:
@@ -113,10 +113,10 @@ C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usbd_desc.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usbd_desc.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h:
 ../../../../Middlewares/SIC/max/include/max/interface.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
 ../../../../Middlewares/SIC/max/include/max/opt.h:

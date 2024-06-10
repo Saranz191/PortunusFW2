@@ -1,5 +1,5 @@
 Middlewares/SIC/lfreader/tag/tiris_mpt.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_mpt.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_mpt.c \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
  ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h \
@@ -50,7 +50,7 @@ Middlewares/SIC/lfreader/tag/tiris_mpt.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/crc.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_common.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_common.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
@@ -101,4 +101,4 @@ Middlewares/SIC/lfreader/tag/tiris_mpt.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/api.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/crc.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_common.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_common.h:

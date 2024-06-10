@@ -1,5 +1,5 @@
 Middlewares/SIC/lfreader/tag/sic73f1.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
  ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h \
@@ -49,7 +49,7 @@ Middlewares/SIC/lfreader/tag/sic73f1.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/crc.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
@@ -99,4 +99,4 @@ Middlewares/SIC/lfreader/tag/sic73f1.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/crc.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h:

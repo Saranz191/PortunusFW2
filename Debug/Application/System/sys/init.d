@@ -1,5 +1,5 @@
 Application/System/sys/init.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/init.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/sys/init.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Application/System/include/sys/init.h \
  ../../../../Application/System/include/sys/arch.h \

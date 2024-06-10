@@ -1,5 +1,5 @@
 Application/System/sys/blkdev.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/blkdev.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/sys/blkdev.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Application/System/include/sys/blkdev.h \
  ../../../../Application/System/include/sys/arch.h \

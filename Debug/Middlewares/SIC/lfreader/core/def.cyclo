@@ -1,6 +1,6 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:74:5:rd_namecmp	8
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:92:5:rd_namencmp	9
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:130:13:__get_tag_profile_table	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:136:8:__get_tag_profile_table_len	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:144:5:object_name_validate	13
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:187:8:rd_set_pulse_value_bits	9
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:74:5:rd_namecmp	8
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:92:5:rd_namencmp	9
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:130:13:__get_tag_profile_table	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:136:8:__get_tag_profile_table_len	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:144:5:object_name_validate	13
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/def.c:187:8:rd_set_pulse_value_bits	9

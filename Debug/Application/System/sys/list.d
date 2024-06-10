@@ -1,5 +1,5 @@
 Application/System/sys/list.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/list.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/sys/list.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Application/System/include/sys/list.h \
  ../../../../Application/System/include/sys/arch.h \

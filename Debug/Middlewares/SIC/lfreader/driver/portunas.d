@@ -1,5 +1,5 @@
 Middlewares/SIC/lfreader/driver/portunas.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
@@ -50,17 +50,17 @@ Middlewares/SIC/lfreader/driver/portunas.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
  ../../../../Middlewares/SIC/lfreader/include/driver/portunas.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/sync.h \
  ../../../../Middlewares/SIC/lfreader/port/portunas/sync_port.h \
  ../../../../Application/System/board/nucleo_l452re/portunas_config.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/timeout.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/timeout.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
@@ -111,14 +111,14 @@ Middlewares/SIC/lfreader/driver/portunas.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/api.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
 ../../../../Middlewares/SIC/lfreader/include/driver/portunas.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/sync.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/sync_port.h:
 ../../../../Application/System/board/nucleo_l452re/portunas_config.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/timeout.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/drvdata.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/timeout.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h:

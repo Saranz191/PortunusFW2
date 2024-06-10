@@ -1,5 +1,5 @@
 Application/MicroReader/ecm/sic73f1_cmd.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/ecm/sic73f1_cmd.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/sic73f1_cmd.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Middlewares/SIC/max/include/max/mrd2.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \

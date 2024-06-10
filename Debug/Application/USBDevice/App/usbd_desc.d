@@ -1,5 +1,5 @@
 Application/USBDevice/App/usbd_desc.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usbd_desc.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usbd_desc.c \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
  ../../../../Application/USBDevice/Target/usbd_conf.h \
  ../../../../Application/System/include/sys/arch.h \
@@ -48,7 +48,7 @@ Application/USBDevice/App/usbd_desc.o: \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usbd_desc.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usbd_desc.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
 ../../../../Application/USBDevice/Target/usbd_conf.h:
@@ -98,5 +98,5 @@ Application/USBDevice/App/usbd_desc.o: \
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/usbd_desc.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/usbd_desc.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:

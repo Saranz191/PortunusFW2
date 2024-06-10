@@ -1,5 +1,5 @@
 Application/System/board/nucleo_l452re/stm32l4xx_it.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/stm32l4xx_it.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/stm32l4xx_it.c \
  ../../../../Application/System/include/sys/arch.h \
  ../../../../Application/System/include/sys/opt.h \
  ../../../../Application/System/board/nucleo_l452re/board_opt.h \
@@ -52,7 +52,7 @@ Application/System/board/nucleo_l452re/stm32l4xx_it.o: \
  ../../../../Application/MaxArch/arch/compiler.h \
  ../../../../Middlewares/SIC/max/include/max/sys.h \
  ../../../../Middlewares/SIC/max/include/max/pkBuf.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h \
  ../../../../Application/System/include/sys/gpio.h \
  ../../../../Application/System/include/sys/list.h
 ../../../../Application/System/include/sys/arch.h:
@@ -107,6 +107,6 @@ Application/System/board/nucleo_l452re/stm32l4xx_it.o: \
 ../../../../Application/MaxArch/arch/compiler.h:
 ../../../../Middlewares/SIC/max/include/max/sys.h:
 ../../../../Middlewares/SIC/max/include/max/pkBuf.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/../stm32l4xx/gpio_dev.h:
 ../../../../Application/System/include/sys/gpio.h:
 ../../../../Application/System/include/sys/list.h:

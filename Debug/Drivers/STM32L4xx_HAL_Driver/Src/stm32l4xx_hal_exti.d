@@ -1,5 +1,5 @@
 Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
  ../../../../Application/System/board/nucleo_l452re/stm32l4xx_hal_conf.h \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h \

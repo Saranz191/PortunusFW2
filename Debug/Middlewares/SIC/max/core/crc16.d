@@ -1,5 +1,5 @@
 Middlewares/SIC/max/core/crc16.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/crc16.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/max/core/crc16.c \
  ../../../../Middlewares/SIC/max/include/max/crc.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
  ../../../../Middlewares/SIC/max/include/max/opt.h \

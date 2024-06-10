@@ -1,2 +1,5 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/bsp.c:17:5:mrd_bsp_cmd_init	4
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/bsp.c:56:13:mrd_bsp_cmd_recv	5
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/bsp.c:24:5:mrd_bsp_cmd_init	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/bsp.c:62:9:create_bsp_status_byte1	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/bsp.c:76:9:create_bsp_status_byte2	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/bsp.c:80:5:process_bsp_command	14
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/bsp.c:216:13:mrd_bsp_cmd_recv	5

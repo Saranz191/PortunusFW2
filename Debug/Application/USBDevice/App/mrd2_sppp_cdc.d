@@ -1,6 +1,6 @@
 Application/USBDevice/App/mrd2_sppp_cdc.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.c \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
@@ -63,7 +63,7 @@ Application/USBDevice/App/mrd2_sppp_cdc.o: \
  ../../../../Middlewares/SIC/max/include/max/memp.h \
  ../../../../Middlewares/SIC/max/include/net/sppp.h \
  ../../../../Middlewares/SIC/max/include/max/pkbuf.h
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/USBDevice/App/mrd2_sppp_cdc.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
 ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h:

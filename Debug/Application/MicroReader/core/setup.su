@@ -1,20 +1,20 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:73:5:mrd_setup_cmd_init	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:132:5:mrd_get_config_timing	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:173:10:mrd_get_config_power_burst_1	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:183:10:mrd_get_config_power_burst_2	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:194:9:mrd_get_config_hdxplus_downlink_crc	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:205:9:mrd_get_config_hdxplus_uplink_crc	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:220:9:mrd_get_config_rw_data_crc	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:235:9:mrd_get_config_mpt_data_crc	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:251:9:mrd_get_config_serial_baudrate	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:261:9:mrd_get_config_okt_signal_timing	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:274:9:mrd_get_config_stat_mode	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:286:9:mrd_get_config_demod_threshold_mode	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:298:9:mrd_get_config_external_power_reader	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:309:13:mrd_setup_cmd_recv	96	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:994:12:send_coding_timing_response	32	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:1056:12:send_uint24_response	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:1081:12:send_uint16_response	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:1105:12:send_uint8_response	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:1125:13:set_coding_timing	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/setup.c:1170:13:carrier_off_timer_callback	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:73:5:mrd_setup_cmd_init	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:132:5:mrd_get_config_timing	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:173:10:mrd_get_config_power_burst_1	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:183:10:mrd_get_config_power_burst_2	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:194:9:mrd_get_config_hdxplus_downlink_crc	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:205:9:mrd_get_config_hdxplus_uplink_crc	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:220:9:mrd_get_config_rw_data_crc	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:235:9:mrd_get_config_mpt_data_crc	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:251:9:mrd_get_config_serial_baudrate	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:261:9:mrd_get_config_okt_signal_timing	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:274:9:mrd_get_config_stat_mode	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:286:9:mrd_get_config_demod_threshold_mode	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:298:9:mrd_get_config_external_power_reader	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:309:13:mrd_setup_cmd_recv	96	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:994:12:send_coding_timing_response	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:1056:12:send_uint24_response	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:1081:12:send_uint16_response	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:1105:12:send_uint8_response	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:1125:13:set_coding_timing	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/setup.c:1170:13:carrier_off_timer_callback	32	static

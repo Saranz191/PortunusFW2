@@ -6,10 +6,10 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:927:26:LL_GPIO_IsOutputPinSet	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:956:22:LL_GPIO_SetOutputPin	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:985:22:LL_GPIO_ResetOutputPin	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:12:5:ioctrl_init	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:43:13:pin_output_init	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:51:5:stat_set_mode	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:94:5:stat_out_get_mode	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:128:5:sync_out_set	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:137:18:uplink_data_status_set	8	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:147:5:downlink_act_status_set	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:12:5:ioctrl_init	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:43:13:pin_output_init	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:51:5:stat_set_mode	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:94:5:stat_out_get_mode	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:128:5:sync_out_set	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:137:18:uplink_data_status_set	8	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/ioctrl_phy.c:147:5:downlink_act_status_set	16	static

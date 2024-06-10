@@ -131,6 +131,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/sic73f1_cmd.c</locationURI>
 		</link>
 		<link>
+			<name>Application/MicroReader/ecm/sic73wr_cmd.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/sic73wr_cmd.c</locationURI>
+		</link>
+		<link>
 			<name>Application/MicroReader/ecm/tms37124_cmd.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/tms37124_cmd.c</locationURI>
@@ -506,6 +511,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/Inc/ecm/sic73f1_cmd.h</locationURI>
 		</link>
 		<link>
+			<name>Application/MicroReader/Inc/ecm/sic73wr_cmd.h</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/Inc/ecm/sic73wr_cmd.h</locationURI>
+		</link>
+		<link>
 			<name>Application/MicroReader/Inc/ecm/tms37124_cmd.h</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/Inc/ecm/tms37124_cmd.h</locationURI>
@@ -766,6 +776,16 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/palfi.c</locationURI>
 		</link>
 		<link>
+			<name>Middlewares/SIC/lfreader/tag/rx_bsp.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/rx_bsp.c</locationURI>
+		</link>
+		<link>
+			<name>Middlewares/SIC/lfreader/tag/rx_lmp.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/rx_lmp.c</locationURI>
+		</link>
+		<link>
 			<name>Middlewares/SIC/lfreader/tag/sic279.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic279.c</locationURI>
@@ -774,6 +794,11 @@
 			<name>Middlewares/SIC/lfreader/tag/sic73f1.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic73f1.c</locationURI>
+		</link>
+		<link>
+			<name>Middlewares/SIC/lfreader/tag/sic73wr.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic73wr.c</locationURI>
 		</link>
 		<link>
 			<name>Middlewares/SIC/lfreader/tag/sic_common.c</name>

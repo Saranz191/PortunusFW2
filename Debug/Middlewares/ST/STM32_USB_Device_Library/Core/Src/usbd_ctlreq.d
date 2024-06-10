@@ -1,5 +1,5 @@
 Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h \
  ../../../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \
  ../../../../Application/USBDevice/Target/usbd_conf.h \

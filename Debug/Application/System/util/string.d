@@ -1,5 +1,5 @@
 Application/System/util/string.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/util/string.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/util/string.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Application/System/include/sys/util.h \
  ../../../../Application/System/include/sys/arch.h \

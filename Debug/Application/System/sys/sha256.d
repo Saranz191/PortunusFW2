@@ -1,5 +1,5 @@
 Application/System/sys/sha256.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/sha256.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/sys/sha256.c \
  ../../../../Application/System/include/sys/sha256.h \
  ../../../../Application/System/include/sys/arch.h \
  ../../../../Application/System/include/sys/opt.h \

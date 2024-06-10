@@ -1,0 +1,5 @@
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/rx_lmp.c:29:12:lmp_profile_start	8
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/rx_lmp.c:73:12:lmp_profile_stop	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/rx_lmp.c:87:12:lmp_profile_operate	7
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/rx_lmp.c:131:5:lmp_copy_response	10
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/rx_lmp.c:181:5:lmp_read_response_filter	9

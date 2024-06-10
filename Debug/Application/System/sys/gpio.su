@@ -1,10 +1,10 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:14:5:gpio_system_init	8	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:19:5:gpio_register	32	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:72:9:gpio_open	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:116:5:gpio_close	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:144:5:gpio_read	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:166:5:gpio_write	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:187:5:gpio_config	40	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:209:5:gpio_config_property	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:217:5:gpio_config_enable_interrupt	48	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/sys/gpio.c:232:5:gpio_config_disable_interrupt	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:14:5:gpio_system_init	8	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:19:5:gpio_register	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:72:9:gpio_open	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:116:5:gpio_close	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:144:5:gpio_read	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:166:5:gpio_write	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:187:5:gpio_config	40	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:209:5:gpio_config_property	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:217:5:gpio_config_enable_interrupt	48	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/System/sys/gpio.c:232:5:gpio_config_disable_interrupt	24	static

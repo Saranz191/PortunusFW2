@@ -1,9 +1,9 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:25:5:netInterface_init	40	static,ignoring_inline_asm
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:79:5:netInterface_register	56	static,ignoring_inline_asm
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:155:5:netInterface_unregister	40	static,ignoring_inline_asm
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:195:10:netInterface_search	40	static,ignoring_inline_asm
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:222:10:netInterface_getDefault	4	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:233:13:netInterface_getName	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:259:5:netInterface_config	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:275:5:netInterface_directConfig	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/max/core/interface.c:330:5:netInterface_status	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:25:5:netInterface_init	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:79:5:netInterface_register	56	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:155:5:netInterface_unregister	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:195:10:netInterface_search	40	static,ignoring_inline_asm
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:222:10:netInterface_getDefault	4	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:233:13:netInterface_getName	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:259:5:netInterface_config	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:275:5:netInterface_directConfig	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/max/core/interface.c:330:5:netInterface_status	24	static

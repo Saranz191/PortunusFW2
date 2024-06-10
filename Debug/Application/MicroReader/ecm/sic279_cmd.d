@@ -1,5 +1,5 @@
 Application/MicroReader/ecm/sic279_cmd.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c \
  ../../../../Application/System/include/sys/err.h \
  ../../../../Middlewares/SIC/max/include/max/mrd2.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
@@ -64,7 +64,7 @@ Application/MicroReader/ecm/sic279_cmd.o: \
  ../../../../Application/MicroReader/Inc/mrd2/setup.h \
  ../../../../Application/MicroReader/Inc/mrd2/status.h \
  ../../../../Application/MicroReader/Inc/mrd2/settings.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\sic_common.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\sic_common.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Middlewares/SIC/max/include/max/mrd2.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
@@ -129,4 +129,4 @@ Application/MicroReader/ecm/sic279_cmd.o: \
 ../../../../Application/MicroReader/Inc/mrd2/setup.h:
 ../../../../Application/MicroReader/Inc/mrd2/status.h:
 ../../../../Application/MicroReader/Inc/mrd2/settings.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\sic_common.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\sic_common.h:

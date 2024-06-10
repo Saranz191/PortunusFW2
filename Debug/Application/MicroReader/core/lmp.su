@@ -1,2 +1,5 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/lmp.c:17:5:mrd_lmp_cmd_init	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/lmp.c:56:13:mrd_lmp_cmd_recv	80	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/lmp.c:32:5:mrd_lmp_cmd_init	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/lmp.c:70:9:create_status_byte	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/lmp.c:112:5:process_data_fields	144	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/lmp.c:196:5:process_lmp_command	208	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/lmp.c:298:13:mrd_lmp_cmd_recv	80	static

@@ -1,5 +1,5 @@
 Application/Main/Src/main.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/Main/Src/main.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/Main/Src/main.c \
  ../../../../Application/System/include/sys/init.h \
  ../../../../Application/System/include/sys/arch.h \
  ../../../../Application/System/include/sys/opt.h \

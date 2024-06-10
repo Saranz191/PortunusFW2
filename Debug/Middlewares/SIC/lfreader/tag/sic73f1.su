@@ -1,3 +1,5 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:21:12:sic73f1_profile_start	32	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:65:12:sic73f1_profile_stop	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:78:12:sic73f1_profile_operate	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:21:12:profile_start_common	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:65:12:profile_operate_common	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:122:12:profile_stop_common	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:135:12:tms3789_tms37159_profile_operate	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73f1.c:140:12:sic73f1_profile_operate	32	static

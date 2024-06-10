@@ -1,5 +1,5 @@
 Application/System/board/nucleo_l452re/system_stm32l4xx.o: \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/System/board/nucleo_l452re/system_stm32l4xx.c \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/System/board/nucleo_l452re/system_stm32l4xx.c \
  ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h \
  ../../../../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l452xx.h \
  ../../../../Drivers/CMSIS/Include/core_cm4.h \

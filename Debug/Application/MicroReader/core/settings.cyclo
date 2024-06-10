@@ -1,28 +1,28 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:113:5:mrd_setting_init	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:118:5:mrd_setting_load_factory_default	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:124:5:mrd_setting_load	9
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:178:5:mrd_setting_save	4
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:220:5:mrd_setting_delete	2
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:238:6:mrd_setting_set_timing_pwm	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:243:6:mrd_setting_get_timing_pwm	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:248:6:mrd_setting_set_timing_pwm_rw_mpt	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:253:6:mrd_setting_get_timing_pwm_rw_mpt	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:258:6:mrd_setting_set_timing_ppm	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:263:6:mrd_setting_get_timing_ppm	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:268:6:mrd_setting_set_timing_blc_hdxplus	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:273:6:mrd_setting_get_timing_blc_hdxplus	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:278:6:mrd_setting_set_timing_blc_auto	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:283:6:mrd_setting_get_timing_blc_auto	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:288:6:mrd_setting_set_power_burst_1	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:293:10:mrd_setting_get_power_burst_1	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:298:6:mrd_setting_set_power_burst_2	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:303:10:mrd_setting_get_power_burst_2	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:316:9:mrd_setting_set_hdxplus_downlink_crc	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:331:9:mrd_setting_set_hdxplus_uplink_crc	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:346:9:mrd_setting_set_rw_data_crc	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:361:9:mrd_setting_set_mpt_data_crc	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:383:9:mrd_setting_set_serial_baudrate	4
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:404:9:mrd_setting_set_okt_signal_timing	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:430:9:mrd_setting_set_stat_mode	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:452:9:mrd_setting_set_demod_threshold_mode	3
-C:/Users/ASUS/Downloads/portunas_fw2(defult)/portunas_fw2/Application/MicroReader/core/settings.c:476:9:mrd_setting_set_external_power_reader	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:113:5:mrd_setting_init	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:118:5:mrd_setting_load_factory_default	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:124:5:mrd_setting_load	9
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:178:5:mrd_setting_save	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:220:5:mrd_setting_delete	2
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:238:6:mrd_setting_set_timing_pwm	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:243:6:mrd_setting_get_timing_pwm	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:248:6:mrd_setting_set_timing_pwm_rw_mpt	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:253:6:mrd_setting_get_timing_pwm_rw_mpt	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:258:6:mrd_setting_set_timing_ppm	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:263:6:mrd_setting_get_timing_ppm	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:268:6:mrd_setting_set_timing_blc_hdxplus	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:273:6:mrd_setting_get_timing_blc_hdxplus	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:278:6:mrd_setting_set_timing_blc_auto	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:283:6:mrd_setting_get_timing_blc_auto	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:288:6:mrd_setting_set_power_burst_1	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:293:10:mrd_setting_get_power_burst_1	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:298:6:mrd_setting_set_power_burst_2	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:303:10:mrd_setting_get_power_burst_2	1
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:316:9:mrd_setting_set_hdxplus_downlink_crc	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:331:9:mrd_setting_set_hdxplus_uplink_crc	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:346:9:mrd_setting_set_rw_data_crc	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:361:9:mrd_setting_set_mpt_data_crc	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:383:9:mrd_setting_set_serial_baudrate	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:404:9:mrd_setting_set_okt_signal_timing	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:430:9:mrd_setting_set_stat_mode	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:452:9:mrd_setting_set_demod_threshold_mode	3
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/core/settings.c:476:9:mrd_setting_set_external_power_reader	4
