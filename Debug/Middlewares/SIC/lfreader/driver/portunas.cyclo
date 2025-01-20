@@ -2,7 +2,7 @@ C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lf
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:79:12:portunas_afe_config	63
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:261:12:portunas_afe_switch_rf	4
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:290:5:portunas_afe_send	8
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:341:12:portunas_afe_recv	10
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:408:12:portunas_afe_release	4
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:469:5:portunas_afe_init	10
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:341:12:portunas_afe_recv	11
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:415:12:portunas_afe_release	4
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:476:5:portunas_afe_init	9
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas.c:566:5:portunas_afe_deinit	2

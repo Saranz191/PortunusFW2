@@ -1,13 +1,7 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:563:22:LL_AHB2_GRP1_EnableClock	24	static
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1673:22:LL_APB2_GRP1_EnableClock	24	static
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:285:22:LL_GPIO_SetPinMode	48	static,ignoring_inline_asm
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:354:22:LL_GPIO_SetPinOutputType	24	static
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:425:22:LL_GPIO_SetPinSpeed	48	static,ignoring_inline_asm
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:496:22:LL_GPIO_SetPinPull	48	static,ignoring_inline_asm
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:568:22:LL_GPIO_SetAFPin_0_7	48	static,ignoring_inline_asm
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1087:22:LL_APB1_GRP1_EnableClock	24	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:1486:22:LL_TIM_EnableCounter	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:1497:22:LL_TIM_DisableCounter	16	static
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:1666:22:LL_TIM_EnableARRPreload	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:1677:22:LL_TIM_DisableARRPreload	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:1739:22:LL_TIM_SetCounter	16	static
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:1792:26:LL_TIM_GetPrescaler	16	static
@@ -29,6 +23,6 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:4954:22:LL_TIM_GenerateEvent_UPDATE	16	static
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:13:5:carrier_enable	16	static
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:38:5:carrier_disable	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:62:5:carrier_phy_init	120	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:153:5:carrier_change_freq	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:189:10:carrier_get_current_freq	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:62:5:carrier_phy_init	144	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:163:5:carrier_change_freq	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/carrier_phy.c:199:10:carrier_get_current_freq	16	static
