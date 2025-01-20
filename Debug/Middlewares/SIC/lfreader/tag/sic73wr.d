@@ -49,8 +49,8 @@ Middlewares/SIC/lfreader/tag/sic73wr.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/afe.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h \
- ../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h \
+ ../../../../Application/MicroReader/Inc/mrd2/setup.h \
+ ../../../../Application/MicroReader/Inc/mrd2/settings.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
  ../../../../Middlewares/SIC/max/include/max/mrd2.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
@@ -61,7 +61,9 @@ Middlewares/SIC/lfreader/tag/sic73wr.o: \
  ../../../../Application/MaxArch/arch/compiler.h \
  ../../../../Middlewares/SIC/max/include/max/pkbuf.h \
  ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h \
- ../../../../Application/MicroReader/Inc/mrd2/dev.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/mpt_common.h \
+ ../../../../Application/MicroReader/Inc/../utils/data_manipulation.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73wr.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
@@ -111,8 +113,8 @@ Middlewares/SIC/lfreader/tag/sic73wr.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/afe.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h:
-../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h:
+../../../../Application/MicroReader/Inc/mrd2/setup.h:
+../../../../Application/MicroReader/Inc/mrd2/settings.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/api.h:
 ../../../../Middlewares/SIC/max/include/max/mrd2.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
@@ -123,4 +125,6 @@ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/l
 ../../../../Application/MaxArch/arch/compiler.h:
 ../../../../Middlewares/SIC/max/include/max/pkbuf.h:
 ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h:
-../../../../Application/MicroReader/Inc/mrd2/dev.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/mpt_common.h:
+../../../../Application/MicroReader/Inc/../utils/data_manipulation.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic73wr.h:

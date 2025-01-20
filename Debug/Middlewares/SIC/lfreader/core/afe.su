@@ -20,7 +20,7 @@ C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lf
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:266:5:afedrv_get_high_bit_detection	16	static
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:271:5:afedrv_send	32	static
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:295:5:afedrv_recv	48	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:331:5:afedrv_switch_rf	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:373:28:find_afedrv_node	24	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:387:28:alloc_afedrv_node	16	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:400:13:free_afedrv_node	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:333:5:afedrv_switch_rf	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:375:28:find_afedrv_node	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:389:28:alloc_afedrv_node	16	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Middlewares/SIC/lfreader/core/afe.c:402:13:free_afedrv_node	16	static

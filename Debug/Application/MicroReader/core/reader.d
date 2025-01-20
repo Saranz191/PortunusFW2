@@ -62,7 +62,8 @@ Application/MicroReader/core/reader.o: \
  ../../../../Application/MaxArch/arch/compiler.h \
  ../../../../Middlewares/SIC/max/include/max/pkbuf.h \
  ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h \
- ../../../../Application/MicroReader/Inc/mrd2/setup.h
+ ../../../../Application/MicroReader/Inc/mrd2/setup.h \
+ ../../../../Application/MaxArch/../../Application/MicroReader/Inc/mrd2/reader.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Application/System/include/sys/gpio.h:
 ../../../../Application/System/include/sys/arch.h:
@@ -126,3 +127,4 @@ Application/MicroReader/core/reader.o: \
 ../../../../Middlewares/SIC/max/include/max/pkbuf.h:
 ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h:
 ../../../../Application/MicroReader/Inc/mrd2/setup.h:
+../../../../Application/MaxArch/../../Application/MicroReader/Inc/mrd2/reader.h:

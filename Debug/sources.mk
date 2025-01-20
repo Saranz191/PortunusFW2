@@ -26,6 +26,7 @@ Application/Main/Src \
 Application/MaxArch \
 Application/MicroReader/core \
 Application/MicroReader/ecm \
+Application/MicroReader/utils \
 Application/System/board/nucleo_l452re \
 Application/System/board/stm32l4xx \
 Application/System/sys \

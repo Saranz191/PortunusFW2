@@ -53,7 +53,19 @@ Middlewares/SIC/lfreader/driver/portunas/hdx_coding.o: \
  ../../../../Application/System/board/nucleo_l452re/portunas_config.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h \
+ ../../../../Application/MaxArch/../MicroReader/Inc/mrd2/settings.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
+ ../../../../Middlewares/SIC/max/include/max/mrd2.h \
+ ../../../../Middlewares/SIC/max/include/max/def.h \
+ ../../../../Middlewares/SIC/max/include/max/opt.h \
+ ../../../../Application/MaxArch/max_opt.h \
+ ../../../../Middlewares/SIC/max/include/max/arch.h \
+ ../../../../Application/MaxArch/arch/cpu.h \
+ ../../../../Application/MaxArch/arch/compiler.h \
+ ../../../../Middlewares/SIC/max/include/max/pkbuf.h \
+ ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
@@ -108,3 +120,15 @@ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/l
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/clkref.h:
+../../../../Application/MaxArch/../MicroReader/Inc/mrd2/settings.h:
+../../../../Middlewares/SIC/lfreader/include/reader/api.h:
+../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
+../../../../Middlewares/SIC/max/include/max/mrd2.h:
+../../../../Middlewares/SIC/max/include/max/def.h:
+../../../../Middlewares/SIC/max/include/max/opt.h:
+../../../../Application/MaxArch/max_opt.h:
+../../../../Middlewares/SIC/max/include/max/arch.h:
+../../../../Application/MaxArch/arch/cpu.h:
+../../../../Application/MaxArch/arch/compiler.h:
+../../../../Middlewares/SIC/max/include/max/pkbuf.h:
+../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h:

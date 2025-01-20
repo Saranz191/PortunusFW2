@@ -2,12 +2,12 @@
 ../../../../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
 ../../../../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
 ../../../../Drivers/CMSIS/Include/core_cm4.h:1856:26:NVIC_EncodePriority	2
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_rcc.h:2986:22:LL_RCC_SetLPUARTClockSource	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_rcc.h:2950:22:LL_RCC_SetUSARTClockSource	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:327:22:LL_AHB1_GRP1_EnableClock	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:563:22:LL_AHB2_GRP1_EnableClock	1
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1087:22:LL_APB1_GRP1_EnableClock	1
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1344:22:LL_APB1_GRP1_ForceReset	1
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1426:22:LL_APB1_GRP1_ReleaseReset	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1673:22:LL_APB2_GRP1_EnableClock	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1800:22:LL_APB2_GRP1_ForceReset	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h:1841:22:LL_APB2_GRP1_ReleaseReset	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:552:22:LL_DMA_EnableChannel	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:572:22:LL_DMA_DisableChannel	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:655:22:LL_DMA_SetDataTransferDirection	1
@@ -20,11 +20,11 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:996:22:LL_DMA_SetDataLength	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1049:22:LL_DMA_ConfigAddresses	2
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1512:22:LL_DMA_SetPeriphRequest	2
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1710:26:LL_DMA_IsActiveFlag_TC7	2
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1864:26:LL_DMA_IsActiveFlag_TE7	2
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2046:22:LL_DMA_ClearFlag_TC7	1
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2123:22:LL_DMA_ClearFlag_HT7	1
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2200:22:LL_DMA_ClearFlag_TE7	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1677:26:LL_DMA_IsActiveFlag_TC4	2
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1831:26:LL_DMA_IsActiveFlag_TE4	2
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2013:22:LL_DMA_ClearFlag_TC4	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2090:22:LL_DMA_ClearFlag_HT4	1
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2167:22:LL_DMA_ClearFlag_TE4	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2226:22:LL_DMA_EnableIT_TC	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:2266:22:LL_DMA_EnableIT_TE	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:687:22:LL_USART_Enable	1
@@ -61,7 +61,7 @@
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:354:22:LL_GPIO_SetPinOutputType	1
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:425:22:LL_GPIO_SetPinSpeed	3
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:496:22:LL_GPIO_SetPinPull	3
-../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:568:22:LL_GPIO_SetAFPin_0_7	3
+../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:645:22:LL_GPIO_SetAFPin_8_15	3
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.c:20:6:sppp_uart_init	3
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.c:136:6:sppp_uart_baudrate_switch	7
 C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MaxArch/mrd2_sppp_uart.c:186:5:sppp_uart_baudrate_config	1

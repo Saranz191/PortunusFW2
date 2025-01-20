@@ -64,7 +64,13 @@ Application/MicroReader/ecm/sic279_cmd.o: \
  ../../../../Application/MicroReader/Inc/mrd2/setup.h \
  ../../../../Application/MicroReader/Inc/mrd2/status.h \
  ../../../../Application/MicroReader/Inc/mrd2/settings.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\sic_common.h
+ ../../../../Application/MicroReader/Inc/ecm/ecm_error_handling.h \
+ .././..\..\..\Middlewares\SIC\max\include\max\mrd2.h \
+ .././..\..\..\Middlewares\SIC\lfreader\include\reader\err.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\mpt_common.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/../utils/data_manipulation.h \
+ ../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h \
+ ../../../../Application/MicroReader/Inc/mrd2/dev.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Middlewares/SIC/max/include/max/mrd2.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
@@ -129,4 +135,10 @@ Application/MicroReader/ecm/sic279_cmd.o: \
 ../../../../Application/MicroReader/Inc/mrd2/setup.h:
 ../../../../Application/MicroReader/Inc/mrd2/status.h:
 ../../../../Application/MicroReader/Inc/mrd2/settings.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\sic_common.h:
+../../../../Application/MicroReader/Inc/ecm/ecm_error_handling.h:
+.././..\..\..\Middlewares\SIC\max\include\max\mrd2.h:
+.././..\..\..\Middlewares\SIC\lfreader\include\reader\err.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/..\..\..\Middlewares\SIC\lfreader\tag\mpt_common.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/ecm/../utils/data_manipulation.h:
+../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h:
+../../../../Application/MicroReader/Inc/mrd2/dev.h:

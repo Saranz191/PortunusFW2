@@ -1,3 +1,2 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c:41:15:reverseByte	2
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c:50:5:mrd_ecm_sic279_cmd	18
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c:111:12:mrd_ecm_sic279_prog_cmd	31
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c:30:5:mrd_ecm_sic279_cmd	17
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic279_cmd.c:87:12:mrd_ecm_sic279_prog_cmd	62

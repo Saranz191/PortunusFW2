@@ -72,7 +72,8 @@ Application/MicroReader/core/setup.o: \
  ../../../../Application/MicroReader/Inc/mrd2/ver.h \
  ../../../../Application/MicroReader/Inc/mrd2/reader.h \
  ../../../../Application/MicroReader/Inc/mrd2/setup.h \
- ../../../../Application/MicroReader/Inc/mrd2/settings.h
+ ../../../../Application/MicroReader/Inc/mrd2/settings.h \
+ ../../../../Application/System/include/../board/nucleo_l452re/portunas_config.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Application/System/include/sys/swtimer.h:
 ../../../../Application/System/include/sys/arch.h:
@@ -146,3 +147,4 @@ Application/MicroReader/core/setup.o: \
 ../../../../Application/MicroReader/Inc/mrd2/reader.h:
 ../../../../Application/MicroReader/Inc/mrd2/setup.h:
 ../../../../Application/MicroReader/Inc/mrd2/settings.h:
+../../../../Application/System/include/../board/nucleo_l452re/portunas_config.h:

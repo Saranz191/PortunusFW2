@@ -52,7 +52,8 @@ Middlewares/SIC/lfreader/driver/portunas/txct_phy.o: \
  ../../../../Middlewares/SIC/lfreader/port/portunas/sync_port.h \
  ../../../../Application/System/board/nucleo_l452re/portunas_config.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h \
- ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h
+ ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h \
+ ../../../../Application/MaxArch/../System/board/nucleo_l452re/portunas_config.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
@@ -106,3 +107,4 @@ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/l
 ../../../../Application/System/board/nucleo_l452re/portunas_config.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/txct.h:
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_tim.h:
+../../../../Application/MaxArch/../System/board/nucleo_l452re/portunas_config.h:

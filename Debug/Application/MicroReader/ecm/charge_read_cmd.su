@@ -1,2 +1,5 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:29:5:mrd_ecm_charge_read_cmd	160	static
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:109:5:mrd_lmp_charge_read_cmd	160	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:25:12:process_tag_response	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:70:12:perform_charge_read	152	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:101:5:mrd_ecm_charge_read_cmd	32	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:118:5:mrd_lmp_charge_read_cmd	24	static
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/charge_read_cmd.c:123:5:mrd_bsp_charge_read_cmd	24	static

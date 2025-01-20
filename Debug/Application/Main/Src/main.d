@@ -54,25 +54,25 @@ Application/Main/Src/main.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
  ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h \
- ../../../../Application/MicroReader/Inc/mrd2/reader.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
- ../../../../Application/MicroReader/Inc/mrd2/setup.h \
- ../../../../Application/MicroReader/Inc/mrd2/ecm.h \
- ../../../../Application/MicroReader/Inc/mrd2/lmp.h \
- ../../../../Application/MicroReader/Inc/mrd2/bsp.h \
- ../../../../Application/MicroReader/Inc/mrd2/status.h \
- ../../../../Middlewares/SIC/max/include/max/err.h \
+ ../../../../Middlewares/SIC/max/include/max/mrd2.h \
  ../../../../Middlewares/SIC/max/include/max/def.h \
  ../../../../Middlewares/SIC/max/include/max/opt.h \
  ../../../../Application/MaxArch/max_opt.h \
  ../../../../Middlewares/SIC/max/include/max/arch.h \
  ../../../../Application/MaxArch/arch/cpu.h \
  ../../../../Application/MaxArch/arch/compiler.h \
- ../../../../Middlewares/SIC/max/include/max/memp.h \
- ../../../../Middlewares/SIC/max/include/max/mrd2.h \
  ../../../../Middlewares/SIC/max/include/max/pkbuf.h \
  ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h \
+ ../../../../Application/MicroReader/Inc/mrd2/reader.h \
+ ../../../../Application/MicroReader/Inc/mrd2/setup.h \
+ ../../../../Application/MicroReader/Inc/mrd2/ecm.h \
+ ../../../../Application/MicroReader/Inc/mrd2/lmp.h \
+ ../../../../Application/MicroReader/Inc/mrd2/bsp.h \
+ ../../../../Application/MicroReader/Inc/mrd2/status.h \
+ ../../../../Middlewares/SIC/max/include/max/err.h \
+ ../../../../Middlewares/SIC/max/include/max/memp.h \
  ../../../../Middlewares/SIC/max/include/max/interface.h \
  ../../../../Middlewares/SIC/max/include/max/sys.h \
  ../../../../Middlewares/SIC/max/include/max/pkBuf.h \
@@ -140,25 +140,25 @@ Application/Main/Src/main.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
-../../../../Application/MicroReader/Inc/mrd2/reader.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/api.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
-../../../../Application/MicroReader/Inc/mrd2/setup.h:
-../../../../Application/MicroReader/Inc/mrd2/ecm.h:
-../../../../Application/MicroReader/Inc/mrd2/lmp.h:
-../../../../Application/MicroReader/Inc/mrd2/bsp.h:
-../../../../Application/MicroReader/Inc/mrd2/status.h:
-../../../../Middlewares/SIC/max/include/max/err.h:
+../../../../Middlewares/SIC/max/include/max/mrd2.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
 ../../../../Middlewares/SIC/max/include/max/opt.h:
 ../../../../Application/MaxArch/max_opt.h:
 ../../../../Middlewares/SIC/max/include/max/arch.h:
 ../../../../Application/MaxArch/arch/cpu.h:
 ../../../../Application/MaxArch/arch/compiler.h:
-../../../../Middlewares/SIC/max/include/max/memp.h:
-../../../../Middlewares/SIC/max/include/max/mrd2.h:
 ../../../../Middlewares/SIC/max/include/max/pkbuf.h:
 ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h:
+../../../../Application/MicroReader/Inc/mrd2/reader.h:
+../../../../Application/MicroReader/Inc/mrd2/setup.h:
+../../../../Application/MicroReader/Inc/mrd2/ecm.h:
+../../../../Application/MicroReader/Inc/mrd2/lmp.h:
+../../../../Application/MicroReader/Inc/mrd2/bsp.h:
+../../../../Application/MicroReader/Inc/mrd2/status.h:
+../../../../Middlewares/SIC/max/include/max/err.h:
+../../../../Middlewares/SIC/max/include/max/memp.h:
 ../../../../Middlewares/SIC/max/include/max/interface.h:
 ../../../../Middlewares/SIC/max/include/max/sys.h:
 ../../../../Middlewares/SIC/max/include/max/pkBuf.h:

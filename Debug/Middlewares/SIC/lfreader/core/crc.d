@@ -45,7 +45,8 @@ Middlewares/SIC/lfreader/core/crc.o: \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h \
  ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h \
- ../../../../Middlewares/SIC/lfreader/include/reader/crc.h
+ ../../../../Middlewares/SIC/lfreader/include/reader/crc.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/err.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
@@ -92,3 +93,4 @@ Middlewares/SIC/lfreader/core/crc.o: \
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:
 ../../../../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/crc.h:
+../../../../Middlewares/SIC/lfreader/include/reader/err.h:

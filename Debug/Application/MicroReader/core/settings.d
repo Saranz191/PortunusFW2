@@ -50,7 +50,20 @@ Application/MicroReader/core/settings.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/afe.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/def.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
- ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h
+ ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
+ ../../../../Middlewares/SIC/max/include/max/mrd2.h \
+ ../../../../Middlewares/SIC/max/include/max/def.h \
+ ../../../../Middlewares/SIC/max/include/max/opt.h \
+ ../../../../Application/MaxArch/max_opt.h \
+ ../../../../Middlewares/SIC/max/include/max/arch.h \
+ ../../../../Application/MaxArch/arch/cpu.h \
+ ../../../../Application/MaxArch/arch/compiler.h \
+ ../../../../Middlewares/SIC/max/include/max/pkbuf.h \
+ ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
+ ../../../../Application/MicroReader/Inc/mrd2/error.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Application/System/include/sys/blkdev.h:
 ../../../../Application/System/include/sys/arch.h:
@@ -102,3 +115,16 @@ Application/MicroReader/core/settings.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
+../../../../Middlewares/SIC/lfreader/include/reader/api.h:
+../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
+../../../../Middlewares/SIC/max/include/max/mrd2.h:
+../../../../Middlewares/SIC/max/include/max/def.h:
+../../../../Middlewares/SIC/max/include/max/opt.h:
+../../../../Application/MaxArch/max_opt.h:
+../../../../Middlewares/SIC/max/include/max/arch.h:
+../../../../Application/MaxArch/arch/cpu.h:
+../../../../Application/MaxArch/arch/compiler.h:
+../../../../Middlewares/SIC/max/include/max/pkbuf.h:
+../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h:
+../../../../Middlewares/SIC/lfreader/include/reader/err.h:
+../../../../Application/MicroReader/Inc/mrd2/error.h:

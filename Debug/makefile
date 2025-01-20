@@ -26,6 +26,7 @@ RM := rm -rf
 -include Application/System/sys/subdir.mk
 -include Application/System/board/stm32l4xx/subdir.mk
 -include Application/System/board/nucleo_l452re/subdir.mk
+-include Application/MicroReader/utils/subdir.mk
 -include Application/MicroReader/ecm/subdir.mk
 -include Application/MicroReader/core/subdir.mk
 -include Application/MaxArch/subdir.mk

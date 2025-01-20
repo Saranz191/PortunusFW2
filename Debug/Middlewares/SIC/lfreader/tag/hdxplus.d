@@ -49,7 +49,7 @@ Middlewares/SIC/lfreader/tag/hdxplus.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/afe.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/mpt_common.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
@@ -99,4 +99,4 @@ Middlewares/SIC/lfreader/tag/hdxplus.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/afe.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/sic_common.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/mpt_common.h:

@@ -1,3 +1,2 @@
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic73wr_cmd.c:34:9:reverse_bits	1
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic73wr_cmd.c:41:5:mrd_ecm_sic73wr_cmd	15
-C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic73wr_cmd.c:86:12:mrd_ecm_sic73wr_prog_cmd	20
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic73wr_cmd.c:33:5:mrd_ecm_sic73wr_cmd	15
+C:/Users/ASUS/Downloads/portunas_fw2(defult) (1)/portunas_fw2/Application/MicroReader/ecm/sic73wr_cmd.c:78:12:mrd_ecm_sic73wr_prog_cmd	28

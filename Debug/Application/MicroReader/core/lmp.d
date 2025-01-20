@@ -68,11 +68,13 @@ Application/MicroReader/core/lmp.o: \
  ../../../../Application/MicroReader/Inc/mrd2/settings.h \
  ../../../../Application/MicroReader/Inc/ecm/charge_read_cmd.h \
  ../../../../Application/MicroReader/Inc/mrd2/dev.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h \
- C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h \
+ ../../../../Application/MicroReader/Inc/mrd2/status.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/crc.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/../Inc/mrd2/dev.h \
- ../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h
+ ../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/../utils/data_manipulation.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h \
+ C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h
 ../../../../Application/System/include/sys/err.h:
 ../../../../Middlewares/SIC/max/include/max/err.h:
 ../../../../Middlewares/SIC/max/include/max/def.h:
@@ -141,8 +143,10 @@ Application/MicroReader/core/lmp.o: \
 ../../../../Application/MicroReader/Inc/mrd2/settings.h:
 ../../../../Application/MicroReader/Inc/ecm/charge_read_cmd.h:
 ../../../../Application/MicroReader/Inc/mrd2/dev.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h:
-C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h:
+../../../../Application/MicroReader/Inc/mrd2/status.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/crc.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/../Inc/mrd2/dev.h:
 ../../../../Application/MicroReader/Inc/ecm/sic279_cmd.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/../utils/data_manipulation.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h:
+C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h:

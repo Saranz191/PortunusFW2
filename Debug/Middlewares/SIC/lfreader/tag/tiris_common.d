@@ -49,6 +49,18 @@ Middlewares/SIC/lfreader/tag/tiris_common.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/tag.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/err.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/crc.h \
+ ../../../../Application/MicroReader/Inc/mrd2/setup.h \
+ ../../../../Application/MicroReader/Inc/mrd2/settings.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
+ ../../../../Middlewares/SIC/max/include/max/mrd2.h \
+ ../../../../Middlewares/SIC/max/include/max/def.h \
+ ../../../../Middlewares/SIC/max/include/max/opt.h \
+ ../../../../Application/MaxArch/max_opt.h \
+ ../../../../Middlewares/SIC/max/include/max/arch.h \
+ ../../../../Application/MaxArch/arch/cpu.h \
+ ../../../../Application/MaxArch/arch/compiler.h \
+ ../../../../Middlewares/SIC/max/include/max/pkbuf.h \
+ ../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_common.h
 ../../../../Middlewares/SIC/lfreader/include/reader/def.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
@@ -99,4 +111,16 @@ Middlewares/SIC/lfreader/tag/tiris_common.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/tag.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/err.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/crc.h:
+../../../../Application/MicroReader/Inc/mrd2/setup.h:
+../../../../Application/MicroReader/Inc/mrd2/settings.h:
+../../../../Middlewares/SIC/lfreader/include/reader/api.h:
+../../../../Middlewares/SIC/max/include/max/mrd2.h:
+../../../../Middlewares/SIC/max/include/max/def.h:
+../../../../Middlewares/SIC/max/include/max/opt.h:
+../../../../Application/MaxArch/max_opt.h:
+../../../../Middlewares/SIC/max/include/max/arch.h:
+../../../../Application/MaxArch/arch/cpu.h:
+../../../../Application/MaxArch/arch/compiler.h:
+../../../../Middlewares/SIC/max/include/max/pkbuf.h:
+../../../../Middlewares/SIC/max/include/max/priv/interface_priv.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Middlewares/SIC/lfreader/tag/tiris_common.h:

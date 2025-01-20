@@ -51,6 +51,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MaxArch/mrd2_sppp_uart.h</locationURI>
 		</link>
 		<link>
+			<name>Application/MicroReader/utils</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
 			<name>Utilities/circular_buffer/cirbuf.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Utilities/circular_buffer/cirbuf.c</locationURI>
@@ -121,6 +126,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/charge_read_cmd.c</locationURI>
 		</link>
 		<link>
+			<name>Application/MicroReader/ecm/ecm_error_handling.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/ecm_error_handling.c</locationURI>
+		</link>
+		<link>
 			<name>Application/MicroReader/ecm/sic279_cmd.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/sic279_cmd.c</locationURI>
@@ -159,6 +169,16 @@
 			<name>Application/MicroReader/ecm/tms3789_tms37159_cmd.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/ecm/tms3789_tms37159_cmd.c</locationURI>
+		</link>
+		<link>
+			<name>Application/MicroReader/utils/data_manipulation.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/utils/data_manipulation.c</locationURI>
+		</link>
+		<link>
+			<name>Application/MicroReader/utils/data_manipulation.h</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/utils/data_manipulation.h</locationURI>
 		</link>
 		<link>
 			<name>Application/System/sys/aes.c</name>
@@ -341,6 +361,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_tim_ex.h</locationURI>
 		</link>
 		<link>
+			<name>Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_bus.h</locationURI>
+		</link>
+		<link>
 			<name>Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h</locationURI>
@@ -481,6 +506,11 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_rcc.c</locationURI>
 		</link>
 		<link>
+			<name>Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_tim.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_tim.c</locationURI>
+		</link>
+		<link>
 			<name>Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usart.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_usart.c</locationURI>
@@ -499,6 +529,11 @@
 			<name>Application/MicroReader/Inc/ecm/charge_read_cmd.h</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/Inc/ecm/charge_read_cmd.h</locationURI>
+		</link>
+		<link>
+			<name>Application/MicroReader/Inc/ecm/ecm_error_handling.h</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Application/MicroReader/Inc/ecm/ecm_error_handling.h</locationURI>
 		</link>
 		<link>
 			<name>Application/MicroReader/Inc/ecm/sic279_cmd.h</name>
@@ -771,6 +806,16 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/hdxplus.c</locationURI>
 		</link>
 		<link>
+			<name>Middlewares/SIC/lfreader/tag/mpt_common.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/mpt_common.c</locationURI>
+		</link>
+		<link>
+			<name>Middlewares/SIC/lfreader/tag/mpt_common.h</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/mpt_common.h</locationURI>
+		</link>
+		<link>
 			<name>Middlewares/SIC/lfreader/tag/palfi.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/palfi.c</locationURI>
@@ -791,9 +836,14 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic279.c</locationURI>
 		</link>
 		<link>
-			<name>Middlewares/SIC/lfreader/tag/sic73f1.c</name>
+			<name>Middlewares/SIC/lfreader/tag/sic279.h</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic73f1.c</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic279.h</locationURI>
+		</link>
+		<link>
+			<name>Middlewares/SIC/lfreader/tag/sic73f1_mpt.c</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic73f1_mpt.c</locationURI>
 		</link>
 		<link>
 			<name>Middlewares/SIC/lfreader/tag/sic73wr.c</name>
@@ -801,14 +851,9 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic73wr.c</locationURI>
 		</link>
 		<link>
-			<name>Middlewares/SIC/lfreader/tag/sic_common.c</name>
+			<name>Middlewares/SIC/lfreader/tag/sic73wr.h</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic_common.c</locationURI>
-		</link>
-		<link>
-			<name>Middlewares/SIC/lfreader/tag/sic_common.h</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic_common.h</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/sic73wr.h</locationURI>
 		</link>
 		<link>
 			<name>Middlewares/SIC/lfreader/tag/tiris_common.c</name>
@@ -824,11 +869,6 @@
 			<name>Middlewares/SIC/lfreader/tag/tiris_dst.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/tiris_dst.c</locationURI>
-		</link>
-		<link>
-			<name>Middlewares/SIC/lfreader/tag/tiris_mpt.c</name>
-			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/tag/tiris_mpt.c</locationURI>
 		</link>
 		<link>
 			<name>Middlewares/SIC/lfreader/tag/tiris_ro.c</name>
@@ -929,6 +969,11 @@
 			<name>Middlewares/SIC/lfreader/driver/portunas/hdx_coding.c</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Middlewares/SIC/lfreader/driver/portunas/hdx_coding.c</locationURI>
+		</link>
+		<link>
+			<name>Middlewares/SIC/lfreader/driver/portunas/hdx_coding.h</name>
+			<type>1</type>
+			<locationURI>PARENT-6-PROJECT_LOC/OneDrive/Desktop/portunas_fw2/Middlewares/SIC/lfreader/driver/portunas/hdx_coding.h</locationURI>
 		</link>
 		<link>
 			<name>Middlewares/SIC/lfreader/driver/portunas/hdx_in_phy.c</name>

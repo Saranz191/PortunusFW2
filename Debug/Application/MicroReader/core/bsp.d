@@ -59,6 +59,7 @@ Application/MicroReader/core/bsp.o: \
  ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h \
  ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/afe.h \
+ ../../../../Middlewares/SIC/lfreader/include/reader/crc.h \
  ../../../../Application/MicroReader/Inc/mrd2/error.h \
  ../../../../Application/MicroReader/Inc/mrd2/reader.h \
  ../../../../Middlewares/SIC/lfreader/include/reader/api.h \
@@ -68,6 +69,10 @@ Application/MicroReader/core/bsp.o: \
  ../../../../Application/MicroReader/Inc/mrd2/settings.h \
  ../../../../Application/MicroReader/Inc/ecm/charge_read_cmd.h \
  ../../../../Application/MicroReader/Inc/mrd2/dev.h \
+ ../../../../Application/MicroReader/Inc/mrd2/status.h \
+ ../../../../Application/MicroReader/Inc/ecm/ecm_error_handling.h \
+ .././..\..\..\Middlewares\SIC\max\include\max\mrd2.h \
+ .././..\..\..\Middlewares\SIC\lfreader\include\reader\err.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h \
  C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h
 ../../../../Application/System/include/sys/err.h:
@@ -129,6 +134,7 @@ Application/MicroReader/core/bsp.o: \
 ../../../../Middlewares/SIC/lfreader/include/reader/cfg.h:
 ../../../../Middlewares/SIC/lfreader/port/portunas/lfreader_cfg.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/afe.h:
+../../../../Middlewares/SIC/lfreader/include/reader/crc.h:
 ../../../../Application/MicroReader/Inc/mrd2/error.h:
 ../../../../Application/MicroReader/Inc/mrd2/reader.h:
 ../../../../Middlewares/SIC/lfreader/include/reader/api.h:
@@ -138,5 +144,9 @@ Application/MicroReader/core/bsp.o: \
 ../../../../Application/MicroReader/Inc/mrd2/settings.h:
 ../../../../Application/MicroReader/Inc/ecm/charge_read_cmd.h:
 ../../../../Application/MicroReader/Inc/mrd2/dev.h:
+../../../../Application/MicroReader/Inc/mrd2/status.h:
+../../../../Application/MicroReader/Inc/ecm/ecm_error_handling.h:
+.././..\..\..\Middlewares\SIC\max\include\max\mrd2.h:
+.././..\..\..\Middlewares\SIC\lfreader\include\reader\err.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\api.h:
 C:/Users/ASUS/Downloads/portunas_fw2(defult)\ (1)/portunas_fw2/Application/MicroReader/core/..\..\..\Middlewares\SIC\lfreader\include\reader\tag.h:
